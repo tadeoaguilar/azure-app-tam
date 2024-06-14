@@ -8,26 +8,26 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Tadeo.Aguilar\\.nuget\\packages\\": {}
+    "/Users/tadeo/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\gitlab\\azure-app-tam\\azure-app-tam.csproj",
+      "projectUniqueName": "/Users/tadeo/Documents/gitlab/azure-app-tam/azure-app-tam.csproj",
       "projectName": "azure-app-tam",
-      "projectPath": "C:\\gitlab\\azure-app-tam\\azure-app-tam.csproj",
-      "packagesPath": "C:\\Users\\Tadeo.Aguilar\\.nuget\\packages\\",
-      "outputPath": "C:\\gitlab\\azure-app-tam\\obj\\",
+      "projectPath": "/Users/tadeo/Documents/gitlab/azure-app-tam/azure-app-tam.csproj",
+      "packagesPath": "/Users/tadeo/.nuget/packages/",
+      "outputPath": "/Users/tadeo/Documents/gitlab/azure-app-tam/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Tadeo.Aguilar\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/tadeo/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+        "/usr/local/share/dotnet/library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
@@ -68,7 +68,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
