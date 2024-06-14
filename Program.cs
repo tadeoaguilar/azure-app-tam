@@ -1,5 +1,8 @@
 var builder = WebApplication.CreateBuilder(args);
 
+// Add application Insight services
+builder.Services.AddApplicationInsightsTelemetry();
+
 // Add services to the container.
 builder.Services.AddRazorPages();
 
