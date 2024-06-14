@@ -1,0 +1,7 @@
+/Users/tadeo/Documents/gitlab/azure-app-tam/publish/azure-app-tam
+/Users/tadeo/Documents/gitlab/azure-app-tam/publish/appsettings.Development.json
+/Users/tadeo/Documents/gitlab/azure-app-tam/publish/appsettings.json
+/Users/tadeo/Documents/gitlab/azure-app-tam/publish/azure-app-tam.dll
+/Users/tadeo/Documents/gitlab/azure-app-tam/publish/azure-app-tam.deps.json
+/Users/tadeo/Documents/gitlab/azure-app-tam/publish/azure-app-tam.runtimeconfig.json
+/Users/tadeo/Documents/gitlab/azure-app-tam/publish/azure-app-tam.pdb

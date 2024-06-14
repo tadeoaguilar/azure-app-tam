@@ -1,0 +1,12 @@
+/Users/tadeo/Documents/gitlab/azure-app-tam/bin/Release/net8.0/publish/azure-app-tam
+/Users/tadeo/Documents/gitlab/azure-app-tam/bin/Release/net8.0/publish/publish/web.config
+/Users/tadeo/Documents/gitlab/azure-app-tam/bin/Release/net8.0/publish/appsettings.Development.json
+/Users/tadeo/Documents/gitlab/azure-app-tam/bin/Release/net8.0/publish/appsettings.json
+/Users/tadeo/Documents/gitlab/azure-app-tam/bin/Release/net8.0/publish/publish/appsettings.Development.json
+/Users/tadeo/Documents/gitlab/azure-app-tam/bin/Release/net8.0/publish/publish/appsettings.json
+/Users/tadeo/Documents/gitlab/azure-app-tam/bin/Release/net8.0/publish/publish/azure-app-tam.deps.json
+/Users/tadeo/Documents/gitlab/azure-app-tam/bin/Release/net8.0/publish/publish/azure-app-tam.runtimeconfig.json
+/Users/tadeo/Documents/gitlab/azure-app-tam/bin/Release/net8.0/publish/azure-app-tam.dll
+/Users/tadeo/Documents/gitlab/azure-app-tam/bin/Release/net8.0/publish/azure-app-tam.deps.json
+/Users/tadeo/Documents/gitlab/azure-app-tam/bin/Release/net8.0/publish/azure-app-tam.runtimeconfig.json
+/Users/tadeo/Documents/gitlab/azure-app-tam/bin/Release/net8.0/publish/azure-app-tam.pdb
