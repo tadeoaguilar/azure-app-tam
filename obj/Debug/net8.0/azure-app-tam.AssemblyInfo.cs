@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("azure-app-tam")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0cbfefcc840633177b22f4fe3e3faf2f03190028")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe4563b33ba6058394701003ad21e82e1fe3e43d")]
 [assembly: System.Reflection.AssemblyProductAttribute("azure-app-tam")]
 [assembly: System.Reflection.AssemblyTitleAttribute("azure-app-tam")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

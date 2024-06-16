@@ -1,7 +1,17 @@
+using azure_app_tam.Data;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add application Insight services
 builder.Services.AddApplicationInsightsTelemetry();
+
+//Add Sql Services
+
+var connectionString = builder.Configuration.GetConnectionString("AzureSqlConnection");
+builder.Services.AddDbContext<AppDbContext>(options => 
+    options.UseSqlServer(connectionString));
+
 
 // Add services to the container.
 builder.Services.AddRazorPages();
